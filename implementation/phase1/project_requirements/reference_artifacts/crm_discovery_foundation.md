@@ -28,7 +28,7 @@ Primary pain points:
 - Owner/lead operations user (workflow oversight, approvals, follow-up, scheduling visibility).
 - Estimator / project lead (bid preparation and conversion).
 - Scheduler / dispatcher (assigns crews and dates).
-- Installers/technicians/engineers (execute work orders and update completion artifacts).
+- Installers/technicians (execute work orders and update completion artifacts).
 - Back office billing/admin (invoice lifecycle and payment tracking).
 
 ## Functional Requirements (Consolidated)
@@ -63,7 +63,7 @@ Primary pain points:
 ### 5) Work Orders and Tasking
 - Each project contains multiple work orders.
 - Each work order includes:
-  - Assignment (technician/engineer)
+  - Assignment (installer/technician)
   - Scheduled date/time
   - Checklist/subtasks
   - Notes
